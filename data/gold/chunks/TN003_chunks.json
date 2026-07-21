@@ -1,0 +1,317 @@
+[
+  {
+    "chunk_id": "TN003_summary",
+    "text": "HERITAGE SUMMARY - Shore Temple\nThe Shore Temple is a complex of temples and shrines that overlooks the shore of the Bay of Bengal. It is a structural temple built with blocks of granite dating from the 8th century AD. It is one of the oldest structural stone temples of Southern India.",
+    "chunk_type": "summary",
+    "priority": 1,
+    "site_id": "TN003",
+    "site_name": "Shore Temple",
+    "tamil_name": "கடற்கரை கோவில்",
+    "location": "Mahabalipuram",
+    "district": "Chengalpattu",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Pallava",
+    "tags": [
+      "UNESCO",
+      "Pallava",
+      "coastal",
+      "temple",
+      "rock-cut"
+    ],
+    "source": "gold_layer"
+  },
+  {
+    "chunk_id": "TN003_history",
+    "text": "HISTORICAL CONTEXT - Shore Temple\nThe Shore Temple was built during the Pallava dynasty in the period of 700-728 CE. The Pallava dynasty was a powerful Indian dynasty that ruled over the region of Tamil Nadu.",
+    "chunk_type": "history",
+    "priority": 2,
+    "site_id": "TN003",
+    "site_name": "Shore Temple",
+    "tamil_name": "கடற்கரை கோவில்",
+    "location": "Mahabalipuram",
+    "district": "Chengalpattu",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Pallava",
+    "tags": [
+      "UNESCO",
+      "Pallava",
+      "coastal",
+      "temple",
+      "rock-cut"
+    ],
+    "source": "gold_layer"
+  },
+  {
+    "chunk_id": "TN003_architecture",
+    "text": "ARCHITECTURE - Shore Temple\nThe Shore Temple is a structural temple built with blocks of granite. It is a complex of temples and shrines that overlooks the shore of the Bay of Bengal. The temple is a culmination of the architectural creations initiated by King Narasimhavarman II.",
+    "chunk_type": "architecture",
+    "priority": 2,
+    "site_id": "TN003",
+    "site_name": "Shore Temple",
+    "tamil_name": "கடற்கரை கோவில்",
+    "location": "Mahabalipuram",
+    "district": "Chengalpattu",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Pallava",
+    "tags": [
+      "UNESCO",
+      "Pallava",
+      "coastal",
+      "temple",
+      "rock-cut"
+    ],
+    "source": "gold_layer"
+  },
+  {
+    "chunk_id": "TN003_culture",
+    "text": "CULTURAL SIGNIFICANCE - Shore Temple\nThe Shore Temple is a significant religious site for Hindus. It is dedicated to the deities Shiva and Vishnu. The temple is an important pilgrimage site for devotees.",
+    "chunk_type": "culture",
+    "priority": 2,
+    "site_id": "TN003",
+    "site_name": "Shore Temple",
+    "tamil_name": "கடற்கரை கோவில்",
+    "location": "Mahabalipuram",
+    "district": "Chengalpattu",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Pallava",
+    "tags": [
+      "UNESCO",
+      "Pallava",
+      "coastal",
+      "temple",
+      "rock-cut"
+    ],
+    "source": "gold_layer"
+  },
+  {
+    "chunk_id": "TN003_visitor_info",
+    "text": "VISITOR GUIDE - Shore Temple\nVisiting hours are from 6:00 AM to 6:00 PM daily. The entry fee is ₹40 for Indians and ₹600 for foreigners. The best time to visit is from November to February.\n\nPRACTICAL INFO:\n\nVisiting Hours: 6:00 AM - 6:00 PM (Daily)\nEntry Fee: ₹40 for Indians | ₹600 for foreigners\nBest Time: November to February\nNearest Railway: Chengalpattu (29 km)\nNearest Airport: Chennai International Airport (58 km)\nDress Code: Casual acceptable\nFacilities: Museum on site, Parking, Photography allowed\nAccessibility: Mostly flat terrain. Good for elderly.\nTip: Sunrise views are spectacular.\nLocal Food: Fresh seafood, Prawn curry, Fish biryani\nHotels: Ideal Beach Resort, Hotel Mahabalipuram\nSuitable For: History lovers, Photographers, Families",
+    "chunk_type": "visitor_info",
+    "priority": 1,
+    "site_id": "TN003",
+    "site_name": "Shore Temple",
+    "tamil_name": "கடற்கரை கோவில்",
+    "location": "Mahabalipuram",
+    "district": "Chengalpattu",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Pallava",
+    "tags": [
+      "UNESCO",
+      "Pallava",
+      "coastal",
+      "temple",
+      "rock-cut"
+    ],
+    "source": "gold_layer"
+  },
+  {
+    "chunk_id": "TN003_facts",
+    "text": "INTERESTING FACTS - Shore Temple\n• The Shore Temple is also known as the Seven Pagodas.\n• The Pallava dynasty was a powerful Indian dynasty that ruled over the region of Tamil Nadu.\n• The Shore Temple is a structural temple built with blocks of granite.\n• The temple is dedicated to the deities Shiva and Vishnu.\n• The best time to visit the Shore Temple is from November to February.",
+    "chunk_type": "facts",
+    "priority": 3,
+    "site_id": "TN003",
+    "site_name": "Shore Temple",
+    "tamil_name": "கடற்கரை கோவில்",
+    "location": "Mahabalipuram",
+    "district": "Chengalpattu",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Pallava",
+    "tags": [
+      "UNESCO",
+      "Pallava",
+      "coastal",
+      "temple",
+      "rock-cut"
+    ],
+    "source": "gold_layer"
+  },
+  {
+    "chunk_id": "TN003_wiki_000",
+    "text": "Shore Temple:\nThe Shore Temple (c. 725 AD) is a complex of temples and shrines that overlooks the shore of the Bay of Bengal. It is located in Mahabalipuram, about 60 kilometres (37 mi) south of Chennai in Tamil Nadu, India.\nIt is a structural temple, built with blocks of granite, dating from the 8th century AD. At the time of its creation, the site was a busy port during the reign of Narasimhavarman II of the Indian Pallava dynasty. As one of the Group of Monuments at Mahabalipuram, it has been classified as a UNESCO World Heritage Site since 1984. It is one of the oldest structural (versus rock-cut) stone temples of Southern India.\nHistory",
+    "chunk_type": "wikipedia_detail",
+    "priority": 4,
+    "site_id": "TN003",
+    "site_name": "Shore Temple",
+    "tamil_name": "கடற்கரை கோவில்",
+    "location": "Mahabalipuram",
+    "district": "Chengalpattu",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Pallava",
+    "tags": [
+      "UNESCO",
+      "Pallava",
+      "coastal",
+      "temple",
+      "rock-cut"
+    ],
+    "source": "gold_layer"
+  },
+  {
+    "chunk_id": "TN003_wiki_001",
+    "text": "Shore Temple:\nHistory\nMarco Polo and the European merchants who came to Asia after him called the site Seven Pagodas. One of these is believed to be the Shore Temple. The temple probably acted as a landmark for seafarers. As it appears like a Pagoda, the name became familiar to the seafarers.",
+    "chunk_type": "wikipedia_detail",
+    "priority": 4,
+    "site_id": "TN003",
+    "site_name": "Shore Temple",
+    "tamil_name": "கடற்கரை கோவில்",
+    "location": "Mahabalipuram",
+    "district": "Chengalpattu",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Pallava",
+    "tags": [
+      "UNESCO",
+      "Pallava",
+      "coastal",
+      "temple",
+      "rock-cut"
+    ],
+    "source": "gold_layer"
+  },
+  {
+    "chunk_id": "TN003_wiki_002",
+    "text": "Shore Temple:\nThis structural temple complex was the culmination of the architectural creations that were initiated by the King Narasimhavarman II in mid 7th century starting with the Cave temples and the monolithic Rathas. Even though the architectural creation of sculpturing cut-in and cut-out structures continued during subsequent periods, as seen in the Atiranachanda cave, the Pidari rathas and the Tiger cave, the main credit for the architectural elegance of the Shore Temple complex in the category of structural temples goes to the King Rajasimha (700–28 AD), also known as Narasimhavarman II, of the Pallava Dynasty",
+    "chunk_type": "wikipedia_detail",
+    "priority": 4,
+    "site_id": "TN003",
+    "site_name": "Shore Temple",
+    "tamil_name": "கடற்கரை கோவில்",
+    "location": "Mahabalipuram",
+    "district": "Chengalpattu",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Pallava",
+    "tags": [
+      "UNESCO",
+      "Pallava",
+      "coastal",
+      "temple",
+      "rock-cut"
+    ],
+    "source": "gold_layer"
+  },
+  {
+    "chunk_id": "TN003_wiki_003",
+    "text": "Shore Temple:\n. It is now inferred that this temple complex was the last in a series of temples that seemed to exist in the submerged coastline; this is supported by the appearance of an outline of its sister temples off the coast during the Tsunami of 2004 which struck this coastline. The architecture of the Shore Temple was continued by the Cholas (in the temples that they built) who ruled Tamil Nadu after defeating the Pallavas.",
+    "chunk_type": "wikipedia_detail",
+    "priority": 4,
+    "site_id": "TN003",
+    "site_name": "Shore Temple",
+    "tamil_name": "கடற்கரை கோவில்",
+    "location": "Mahabalipuram",
+    "district": "Chengalpattu",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Pallava",
+    "tags": [
+      "UNESCO",
+      "Pallava",
+      "coastal",
+      "temple",
+      "rock-cut"
+    ],
+    "source": "gold_layer"
+  },
+  {
+    "chunk_id": "TN003_wiki_004",
+    "text": "Shore Temple:\nThe tsunami of December 2004 that struck the coastline of Coromandel exposed an old collapsed temple built entirely of granite blocks. This has renewed speculation that Mahabalipuram shore temple was a part of the Seven Pagodas described in the diaries of Europeans, of which six temples remain submerged in the sea. The tsunami also exposed some ancient rock sculptures of lions, elephants, and peacocks that used to decorate walls and temples during the Pallava period during the 7th and 8th centuries.",
+    "chunk_type": "wikipedia_detail",
+    "priority": 4,
+    "site_id": "TN003",
+    "site_name": "Shore Temple",
+    "tamil_name": "கடற்கரை கோவில்",
+    "location": "Mahabalipuram",
+    "district": "Chengalpattu",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Pallava",
+    "tags": [
+      "UNESCO",
+      "Pallava",
+      "coastal",
+      "temple",
+      "rock-cut"
+    ],
+    "source": "gold_layer"
+  },
+  {
+    "chunk_id": "TN003_wiki_005",
+    "text": "Shore Temple:\nThough the tsunami of 26 December 2004 that occurred in the Indian Ocean struck the temple and the surrounding garden, the Shore Temple was not badly damaged, as the water level returned to its normal level within a few minutes. The damage was to the foundation of the bali pitham (sacrificial altar) in front of the temple, the steps leading to the boat jetty, and the small shrine with the Varaha (Boar) sculpture at the basement of the Shore temple. As the temple foundation is on hard granite rock, it could sustain the waves created by the tsunami; the groynes erected around the temple area on the coastline also aided its protection.",
+    "chunk_type": "wikipedia_detail",
+    "priority": 4,
+    "site_id": "TN003",
+    "site_name": "Shore Temple",
+    "tamil_name": "கடற்கரை கோவில்",
+    "location": "Mahabalipuram",
+    "district": "Chengalpattu",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Pallava",
+    "tags": [
+      "UNESCO",
+      "Pallava",
+      "coastal",
+      "temple",
+      "rock-cut"
+    ],
+    "source": "gold_layer"
+  },
+  {
+    "chunk_id": "TN003_wiki_006",
+    "text": "Shore Temple:\nAccording to the two inscriptions found in the slab of smaller Shiva temple, the names of the three temples mentioned are as Kshatriyasimha Pallavesvara-gruham, Rajasimha Pallavesvara-gruham and Pllikondaruliya-devar. The entire temple complex is called as Jalashayana (lying in water). This confirms that the Vishnu shrine was the first shrine to be excavated here. The inscription on the lintel of the Vishnu shrine also mentions this as Narapatisimha Pallava Vishnu Griha where Narapatisimha is a title of Rajasimha.\nArchitecture",
+    "chunk_type": "wikipedia_detail",
+    "priority": 4,
+    "site_id": "TN003",
+    "site_name": "Shore Temple",
+    "tamil_name": "கடற்கரை கோவில்",
+    "location": "Mahabalipuram",
+    "district": "Chengalpattu",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Pallava",
+    "tags": [
+      "UNESCO",
+      "Pallava",
+      "coastal",
+      "temple",
+      "rock-cut"
+    ],
+    "source": "gold_layer"
+  },
+  {
+    "chunk_id": "TN003_wiki_007",
+    "text": "Shore Temple:\nArchitecture\nAll the three Temples of the Shore Temple complex are built on the same platform. Viewed from the northern end, the temples appear to be a replica of the Dharmaraja Ratha. The main Shore Temple, which faces east so that the sun rays shine on the main deity of Shiva Linga in the shrine, is a five-storied structural Hindu temple rather than rock-cut as are the other monuments at the site. Built with sculpted granite stones hauled from a nearby quarry, it is the earliest important structural temple in South India. Its pyramidal structure is 60 feet (18 m) high and sits on a 50 feet (15 m) square platform. There is a small temple in front which was the original porch. It is made out of finely cut local granite.",
+    "chunk_type": "wikipedia_detail",
+    "priority": 4,
+    "site_id": "TN003",
+    "site_name": "Shore Temple",
+    "tamil_name": "கடற்கரை கோவில்",
+    "location": "Mahabalipuram",
+    "district": "Chengalpattu",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Pallava",
+    "tags": [
+      "UNESCO",
+      "Pallava",
+      "coastal",
+      "temple",
+      "rock-cut"
+    ],
+    "source": "gold_layer"
+  },
+  {
+    "chunk_id": "TN003_wiki_008",
+    "text": "Shore Temple:\nThe shore temple is one of the most popular temples in Mahabalipuram. Excavations in early 2000s have revealed new structures here under the sand.\nThe temple is a combination of three shrines. The main shrine is dedicated to Shiva, as is the smaller second shrine. A small third shrine, between the two, is dedicated to a reclining Vishnu and may have had water channelled into the temple, entering the Vishnu shrine. The two Shiva shrines are orthogonal in configuration. The entrance is through a transverse barrel vault gopuram. The two shikharas have a pyramidal outline, each individual tier is distinct with overhanging eaves that cast dark shadows. The o",
+    "chunk_type": "wikipedia_detail",
+    "priority": 4,
+    "site_id": "TN003",
+    "site_name": "Shore Temple",
+    "tamil_name": "கடற்கரை கோவில்",
+    "location": "Mahabalipuram",
+    "district": "Chengalpattu",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Pallava",
+    "tags": [
+      "UNESCO",
+      "Pallava",
+      "coastal",
+      "temple",
+      "rock-cut"
+    ],
+    "source": "gold_layer"
+  }
+]

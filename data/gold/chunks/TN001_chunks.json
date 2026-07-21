@@ -1,0 +1,338 @@
+[
+  {
+    "chunk_id": "TN001_summary",
+    "text": "HERITAGE SUMMARY - Brihadeeshwara Temple\nBrihadeeshwara Temple is a UNESCO World Heritage Site located in Thanjavur Tamil Nadu India. It is one of the largest Hindu temples and an exemplar of Tamil architecture. The temple was built by Chola emperor Rajaraja I between 1003 and 1010 CE.",
+    "chunk_type": "summary",
+    "priority": 1,
+    "site_id": "TN001",
+    "site_name": "Brihadeeshwara Temple",
+    "tamil_name": "பிரகதீஸ்வர கோவில்",
+    "location": "Thanjavur",
+    "district": "Thanjavur",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Chola",
+    "tags": [
+      "UNESCO",
+      "Chola",
+      "temple",
+      "architecture",
+      "heritage"
+    ],
+    "source": "gold_layer"
+  },
+  {
+    "chunk_id": "TN001_history",
+    "text": "HISTORICAL CONTEXT - Brihadeeshwara Temple\nThe temple was built during the Chola dynasty in 1010 CE. The Chola dynasty was a powerful and influential dynasty in South India during the medieval period.",
+    "chunk_type": "history",
+    "priority": 2,
+    "site_id": "TN001",
+    "site_name": "Brihadeeshwara Temple",
+    "tamil_name": "பிரகதீஸ்வர கோவில்",
+    "location": "Thanjavur",
+    "district": "Thanjavur",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Chola",
+    "tags": [
+      "UNESCO",
+      "Chola",
+      "temple",
+      "architecture",
+      "heritage"
+    ],
+    "source": "gold_layer"
+  },
+  {
+    "chunk_id": "TN001_architecture",
+    "text": "ARCHITECTURE - Brihadeeshwara Temple\nThe temple has a massive colonnaded prakara corridor and one of the largest Shiva lingas in India. The vimana tower above the shrine is one of the tallest in South India. The temple was built using granite.",
+    "chunk_type": "architecture",
+    "priority": 2,
+    "site_id": "TN001",
+    "site_name": "Brihadeeshwara Temple",
+    "tamil_name": "பிரகதீஸ்வர கோவில்",
+    "location": "Thanjavur",
+    "district": "Thanjavur",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Chola",
+    "tags": [
+      "UNESCO",
+      "Chola",
+      "temple",
+      "architecture",
+      "heritage"
+    ],
+    "source": "gold_layer"
+  },
+  {
+    "chunk_id": "TN001_culture",
+    "text": "CULTURAL SIGNIFICANCE - Brihadeeshwara Temple\nThe temple is a Shaivite Hindu temple and is dedicated to the deity Shiva. It is also known as Dakshina Meru Meru of the South. The temple is an important pilgrimage site for Hindus.",
+    "chunk_type": "culture",
+    "priority": 2,
+    "site_id": "TN001",
+    "site_name": "Brihadeeshwara Temple",
+    "tamil_name": "பிரகதீஸ்வர கோவில்",
+    "location": "Thanjavur",
+    "district": "Thanjavur",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Chola",
+    "tags": [
+      "UNESCO",
+      "Chola",
+      "temple",
+      "architecture",
+      "heritage"
+    ],
+    "source": "gold_layer"
+  },
+  {
+    "chunk_id": "TN001_visitor_info",
+    "text": "VISITOR GUIDE - Brihadeeshwara Temple\nVisiting hours are from 6:00 AM to 8:30 PM. Entry is free for Indians and costs ₹50 for SAARC citizens and ₹600 for others. The best time to visit is from October to March.\n\nPRACTICAL INFO:\n\nVisiting Hours: 6:00 AM - 8:30 PM\nEntry Fee: Free for Indians | ₹50 for SAARC | ₹600 for others\nBest Time: October to March\nNearest Railway: Thanjavur Junction (2 km)\nNearest Airport: Tiruchirapalli International Airport (55 km)\nDress Code: Traditional Indian attire preferred. No shorts.\nFacilities: Parking, Shoe deposit, Photography allowed, Guided tours\nAccessibility: Wheelchair accessible paths available\nTip: Visit early morning (6-8 AM) for best experience.\nLocal Food: Puttu, Kozhukattai, Filter Coffee\nHotels: Ideal River View Resort, Hotel Sangam, TTDC Hotel Tamil Nadu\nSuitable For: All ages, Families, Elderly, Photography enthusiasts",
+    "chunk_type": "visitor_info",
+    "priority": 1,
+    "site_id": "TN001",
+    "site_name": "Brihadeeshwara Temple",
+    "tamil_name": "பிரகதீஸ்வர கோவில்",
+    "location": "Thanjavur",
+    "district": "Thanjavur",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Chola",
+    "tags": [
+      "UNESCO",
+      "Chola",
+      "temple",
+      "architecture",
+      "heritage"
+    ],
+    "source": "gold_layer"
+  },
+  {
+    "chunk_id": "TN001_facts",
+    "text": "INTERESTING FACTS - Brihadeeshwara Temple\n• The temple is also known as Rajarajesvaram Lord of Rajaraja by its builder.\n• The temple is part of the UNESCO World Heritage Site known as the Great Living Chola Temples.\n• The temple was built around a moat and included gopura the main temple its massive tower inscriptions frescoes and sculptures.\n• The temple is dedicated to the deity Shiva and is one of the largest Shiva temples in India.\n• The temple is wheelchair accessible and has a massive colonnaded prakara corridor.",
+    "chunk_type": "facts",
+    "priority": 3,
+    "site_id": "TN001",
+    "site_name": "Brihadeeshwara Temple",
+    "tamil_name": "பிரகதீஸ்வர கோவில்",
+    "location": "Thanjavur",
+    "district": "Thanjavur",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Chola",
+    "tags": [
+      "UNESCO",
+      "Chola",
+      "temple",
+      "architecture",
+      "heritage"
+    ],
+    "source": "gold_layer"
+  },
+  {
+    "chunk_id": "TN001_wiki_000",
+    "text": "Brihadeeshwara Temple:\nBrihadisvara Temple, called Rajarajesvaram (lit. 'Lord of Rajaraja') by its builder, and known locally as Thanjai Periya Kovil (lit. 'Thanjavur Big Temple') and Peruvudaiyar Kovil (lit. 'Temple of the great lord'), is a Shaivite Hindu temple built in a Chola architectural style located on the south bank of the Cauvery river in Thanjavur, Tamil Nadu, India. It is one of the largest Hindu temples and an exemplar of Tamil architecture. It is also called Dakshina Meru (Meru of the South)",
+    "chunk_type": "wikipedia_detail",
+    "priority": 4,
+    "site_id": "TN001",
+    "site_name": "Brihadeeshwara Temple",
+    "tamil_name": "பிரகதீஸ்வர கோவில்",
+    "location": "Thanjavur",
+    "district": "Thanjavur",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Chola",
+    "tags": [
+      "UNESCO",
+      "Chola",
+      "temple",
+      "architecture",
+      "heritage"
+    ],
+    "source": "gold_layer"
+  },
+  {
+    "chunk_id": "TN001_wiki_001",
+    "text": "Brihadeeshwara Temple:\n. It is also called Dakshina Meru (Meru of the South). Built by Chola emperor Rajaraja I between 1003 and 1010 CE, the temple is a part of the UNESCO World Heritage Site known as the \"Great Living Chola Temples\", along with the Chola-era Gangaikonda Cholapuram temple and Airavatesvara temple, which are about 70 kilometres (43 mi) and 40 kilometres (25 mi) to its northeast respectively.",
+    "chunk_type": "wikipedia_detail",
+    "priority": 4,
+    "site_id": "TN001",
+    "site_name": "Brihadeeshwara Temple",
+    "tamil_name": "பிரகதீஸ்வர கோவில்",
+    "location": "Thanjavur",
+    "district": "Thanjavur",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Chola",
+    "tags": [
+      "UNESCO",
+      "Chola",
+      "temple",
+      "architecture",
+      "heritage"
+    ],
+    "source": "gold_layer"
+  },
+  {
+    "chunk_id": "TN001_wiki_002",
+    "text": "Brihadeeshwara Temple:\nThe original monuments of this 11th-century temple were built around a moat. It included gopura, the main temple, its massive tower, inscriptions, frescoes, and sculptures predominantly related to Shaivism, but also of Vaishnavism and Shaktism. The temple was damaged in its history and some artwork is now missing. Additional mandapam and monuments were added in the centuries that followed. The temple now stands amidst fortified walls that were added after the 16th century.",
+    "chunk_type": "wikipedia_detail",
+    "priority": 4,
+    "site_id": "TN001",
+    "site_name": "Brihadeeshwara Temple",
+    "tamil_name": "பிரகதீஸ்வர கோவில்",
+    "location": "Thanjavur",
+    "district": "Thanjavur",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Chola",
+    "tags": [
+      "UNESCO",
+      "Chola",
+      "temple",
+      "architecture",
+      "heritage"
+    ],
+    "source": "gold_layer"
+  },
+  {
+    "chunk_id": "TN001_wiki_003",
+    "text": "Brihadeeshwara Temple:\nBuilt using granite, the vimana tower above the shrine is one of the tallest in South India. The temple has a massive colonnaded prakara (corridor) and one of the largest Shiva lingas in India. It is also famed for the quality of its sculpture, as well as being the location that commissioned the brass Nataraja, Shiva as the lord of dance, in the 11th century. The complex includes shrines for Nandi, Parvati, Murugan, Ganesha, Sabhapati, Dakshinamurti, Chandeshvara, Varahi, Thiyagarajar of Thiruvarur, Siddhar Karuvoorar and others. The temple is one of the most visited tourist attractions in Tamil Nadu.\nNomenclature",
+    "chunk_type": "wikipedia_detail",
+    "priority": 4,
+    "site_id": "TN001",
+    "site_name": "Brihadeeshwara Temple",
+    "tamil_name": "பிரகதீஸ்வர கோவில்",
+    "location": "Thanjavur",
+    "district": "Thanjavur",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Chola",
+    "tags": [
+      "UNESCO",
+      "Chola",
+      "temple",
+      "architecture",
+      "heritage"
+    ],
+    "source": "gold_layer"
+  },
+  {
+    "chunk_id": "TN001_wiki_004",
+    "text": "Brihadeeshwara Temple:\nNomenclature\nRajaraja Chola, who commissioned the temple, called it Rajarajeshvaram (Rajarājeśvaram), literally \"the temple of the god of Rajaraja\". A later inscription in the Brihannayaki shrine calls the temple's deity Periya Udaiya Nayanar, which appears to be the source of the modern names Brihadisvara and Peruvudaiyar Kovil.\nLocation\nThe Peruvudaiyar Temple is located in the city of Thanjavur, about 350 kilometres (220 mi) southwest of Chennai. The city is connected daily to other major cities by the network of Indian Railways, Tamil Nadu bus services and the National Highways 67, 45C, 226 and 226 Extn. The nearest airport with regular services is Tiruchirappalli International Airport (IATA: TRZ), about 55 kilometres (34 mi) away.",
+    "chunk_type": "wikipedia_detail",
+    "priority": 4,
+    "site_id": "TN001",
+    "site_name": "Brihadeeshwara Temple",
+    "tamil_name": "பிரகதீஸ்வர கோவில்",
+    "location": "Thanjavur",
+    "district": "Thanjavur",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Chola",
+    "tags": [
+      "UNESCO",
+      "Chola",
+      "temple",
+      "architecture",
+      "heritage"
+    ],
+    "source": "gold_layer"
+  },
+  {
+    "chunk_id": "TN001_wiki_005",
+    "text": "Brihadeeshwara Temple:\nThe city and the temple though inland, are at the start of the Kaveri River delta, thus with access to the Bay of Bengal and through it to the Indian Ocean. Along with the temples, the Tamil people completed the first major irrigation network in the 11th century for agriculture, for movement of goods and to control the water flow through the urban center.\nHistory",
+    "chunk_type": "wikipedia_detail",
+    "priority": 4,
+    "site_id": "TN001",
+    "site_name": "Brihadeeshwara Temple",
+    "tamil_name": "பிரகதீஸ்வர கோவில்",
+    "location": "Thanjavur",
+    "district": "Thanjavur",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Chola",
+    "tags": [
+      "UNESCO",
+      "Chola",
+      "temple",
+      "architecture",
+      "heritage"
+    ],
+    "source": "gold_layer"
+  },
+  {
+    "chunk_id": "TN001_wiki_006",
+    "text": "Brihadeeshwara Temple:\nA spectrum of tamil temple styles continued to develop from the fifth to the ninth century over the Chalukya era rule as evidenced in Aihole, Badami and Pattadakal, and then with the Pallava era as witnessed at Mamallapuram and other monuments. Thereafter, between 850 and 1280, Cholas emerged as the dominant dynasty. The early Chola period saw a greater emphasis on securing their geopolitical boundaries and less emphasis on architecture. In the tenth century, within the Chola empire emerged features such as the multifaceted columns with projecting square capitals. This, states George Michell, signaled the start of the new Chola style",
+    "chunk_type": "wikipedia_detail",
+    "priority": 4,
+    "site_id": "TN001",
+    "site_name": "Brihadeeshwara Temple",
+    "tamil_name": "பிரகதீஸ்வர கோவில்",
+    "location": "Thanjavur",
+    "district": "Thanjavur",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Chola",
+    "tags": [
+      "UNESCO",
+      "Chola",
+      "temple",
+      "architecture",
+      "heritage"
+    ],
+    "source": "gold_layer"
+  },
+  {
+    "chunk_id": "TN001_wiki_007",
+    "text": "Brihadeeshwara Temple:\n. This, states George Michell, signaled the start of the new Chola style. This South Indian style is most fully realized both in scale and detail in the Brihadeshwara temple built between 1003 and 1010 by the Chola king Rajaraja I.",
+    "chunk_type": "wikipedia_detail",
+    "priority": 4,
+    "site_id": "TN001",
+    "site_name": "Brihadeeshwara Temple",
+    "tamil_name": "பிரகதீஸ்வர கோவில்",
+    "location": "Thanjavur",
+    "district": "Thanjavur",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Chola",
+    "tags": [
+      "UNESCO",
+      "Chola",
+      "temple",
+      "architecture",
+      "heritage"
+    ],
+    "source": "gold_layer"
+  },
+  {
+    "chunk_id": "TN001_wiki_008",
+    "text": "Brihadeeshwara Temple:\nAdditions, renovations and repairs\nThe main temple along with its gopurams is from the early 11th century. The temple also saw additions, renovations, and repairs over the next 1,000 years. The raids and wars, particularly between Muslim Sultans who controlled Madurai and Hindu kings who controlled Thanjavur caused damage. These were repaired by Hindu dynasties that regained control. In some cases, the rulers attempted to renovate the temple with faded paintings, by ordering new murals on top of the older ones. In other cases, they sponsored the addition of shrines. The significant shrines of Kartikeya (Murugan), Parvati (Amman) and Nandi are from the 16th and 17th-century Nayaka era. Similarly the Dakshinamurti shrine was built later.\nIt was well maintained by Marathas of Thanjavur.",
+    "chunk_type": "wikipedia_detail",
+    "priority": 4,
+    "site_id": "TN001",
+    "site_name": "Brihadeeshwara Temple",
+    "tamil_name": "பிரகதீஸ்வர கோவில்",
+    "location": "Thanjavur",
+    "district": "Thanjavur",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Chola",
+    "tags": [
+      "UNESCO",
+      "Chola",
+      "temple",
+      "architecture",
+      "heritage"
+    ],
+    "source": "gold_layer"
+  },
+  {
+    "chunk_id": "TN001_wiki_009",
+    "text": "Brihadeeshwara Temple:\nIt was well maintained by Marathas of Thanjavur.\nDescription\nArchitecture\nThe Peruvudaiyar temple's plan and development utilizes the axial and symmetrical geometry rules. It is classified as Perunkoil (also called Madakkoil), a big temple built on a higher platform of a natural or man-made mounds. The temple complex is a rectangle that is almost two stacked squares, covering 240.79 metres (790.0 ft) east to west, and 121.92 m",
+    "chunk_type": "wikipedia_detail",
+    "priority": 4,
+    "site_id": "TN001",
+    "site_name": "Brihadeeshwara Temple",
+    "tamil_name": "பிரகதீஸ்வர கோவில்",
+    "location": "Thanjavur",
+    "district": "Thanjavur",
+    "type": "UNESCO World Heritage Site",
+    "dynasty": "Chola",
+    "tags": [
+      "UNESCO",
+      "Chola",
+      "temple",
+      "architecture",
+      "heritage"
+    ],
+    "source": "gold_layer"
+  }
+]

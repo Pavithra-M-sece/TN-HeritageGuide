@@ -1,0 +1,8 @@
+{
+  "embed_model_name": "paraphrase-multilingual-MiniLM-L12-v2",
+  "reranker_model_name": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+  "groq_model": "llama-3.1-8b-instant",
+  "embed_dim": 384,
+  "num_chunks": 151,
+  "created_at": "2026-07-05T04:05:54.268458"
+}
